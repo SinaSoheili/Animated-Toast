@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':animated_toast'
 rootProject.name='AnimatedToast'
