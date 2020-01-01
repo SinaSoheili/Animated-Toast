@@ -1,7 +1,9 @@
 # Animated-Toast
 Animate Toast crated to show a toast with animation and avatar
 
-you can see a sample of this library [here](https://github.com/SINAsoheili/Animated-Toast/blob/master/sample.gif)
+you can see a sample of this library 
+
+![here](https://github.com/SINAsoheili/Animated-Toast/blob/master/sample.gif)
 
 **INSTALL :** 
 
