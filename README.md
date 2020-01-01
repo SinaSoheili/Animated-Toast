@@ -7,20 +7,24 @@ you can see a sample of this library [here](https://github.com/SINAsoheili/Anima
 
 *Step1 :*
 Add it in your root build.gradle at the end of repositories:
->  allprojects {
->      repositories {
->        ...
->        maven { url 'https://jitpack.io' }
->      }
->    }
-    
+
+```
+  allprojects {
+      repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+      }
+    }
+```    
     
 *Step 2 :*
 Add the dependency
->    dependencies {
->             implementation 'com.github.SINAsoheili:Animated-Toast:Tag'
->    }
-    
+
+```
+    dependencies {
+             implementation 'com.github.SINAsoheili:Animated-Toast:Tag'
+    }
+```    
     
 **USAGE :**
 
