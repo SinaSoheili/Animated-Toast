@@ -47,6 +47,6 @@ for contribute :
 
 1. fork project in your repository.
 2. clone project in your system.
-3. create your branch and switch in that.
+3. create your branch and switch into that.
 4. make your change .
 5. commit your changes and send pull request to me. :wink:
