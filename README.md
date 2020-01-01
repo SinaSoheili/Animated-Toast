@@ -24,7 +24,7 @@ Add the dependency
 
 ```
     dependencies {
-             implementation 'com.github.SINAsoheili:Animated-Toast:Tag'
+             implementation 'com.github.SINAsoheili:Animated-Toast:V1.0'
     }
 ```    
     
